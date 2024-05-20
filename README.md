@@ -1,4 +1,4 @@
-# BTP-2
+# NESTED BLOCK DESIGNS FOR COMPARING A SET OF TEST TREATMENTS WITH A SET OF CONTROL TREATMENTS
 
 This repository contains the codes for Nested Block Designs for comparing the set of test treatments with a set of control treatments. Namely, six methods have been described. The user needs to input nested balanced incomplete block (NBIB), balanced incomplete block (BIB), or balanced bipartite block (BBPB) design as input (depending on the method) in a csv file format and number of control treatments. If a valid construction will be possible, the code will output the nested balanced bipartite block (NBBPB) design along with its A-efficiency.
 
